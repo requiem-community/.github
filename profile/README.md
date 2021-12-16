@@ -1,7 +1,7 @@
 ## ✨About
 Requiem provides gamers from different countries, cultures, and age groups with a safe environment that allows them to interact with and expand their social circles. We strive to improve their quality of life with free added value in the form of content, events, and giveaways.
 
-## 🗝 Key values
+<!-- ## 🗝 Key values
 **Inclusivity**  
 We want our community to be a home for everyone. Everyone is welcome regardless of culture, ethnicity, nationality, health status, race, gender identity or expression, sexual orientation or religious beliefs. We accept anyone who shows respect to others in our community.
 
@@ -16,3 +16,4 @@ We want to create a safe and positive environment for all of our members. An env
 
 **Excitement**  
 We want to stand out from the crowd and get people excited about our community. We do not want to be seen as just another gaming community. Instead, we strive to be one’s favorite source of entertainment.
+ -->
