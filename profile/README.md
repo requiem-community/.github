@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frequiem-community&count_bg=%23E6C200&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## ✨About
 Requiem provides gamers from different countries, cultures, and age groups with a safe environment that allows them to interact with and expand their social circles. We strive to improve their quality of life with free added value in the form of content, events, and giveaways.
 
